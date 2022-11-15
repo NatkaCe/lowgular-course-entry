@@ -1,0 +1,706 @@
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 337
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "ZEpY6IB7oL",
+			"correlationId": "w5-A2oeiVB",
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[info] [CLI] Calling Query entity/actions: {
+	"funcParams": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 337
+	},
+	"level": "info",
+	"message": "[CLI] Calling Query entity/actions"
+}
+[error] [API]: Error Entity not found for suffix: component-module: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"position": 337
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+			},
+			"userContext": {
+				"id": "ZEpY6IB7oL",
+				"correlationId": "w5-A2oeiVB",
+				"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Entity not found for suffix: component-module\n    at getEntityActions (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:6597:15)\n    at async callQueryCli (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:8540:20)\n    at async callHandler (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16691:27)",
+	"level": "error",
+	"message": "[API]: Error Entity not found for suffix: component-module"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 338
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "ZEpY6IB7oL",
+			"correlationId": "iOdUOaUo8m",
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[info] [CLI] Calling Query entity/actions: {
+	"funcParams": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 338
+	},
+	"level": "info",
+	"message": "[CLI] Calling Query entity/actions"
+}
+[error] [API]: Error Entity not found for suffix: component-module: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"position": 338
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+			},
+			"userContext": {
+				"id": "ZEpY6IB7oL",
+				"correlationId": "iOdUOaUo8m",
+				"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Entity not found for suffix: component-module\n    at getEntityActions (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:6597:15)\n    at async callQueryCli (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:8540:20)\n    at async callHandler (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16691:27)",
+	"level": "error",
+	"message": "[API]: Error Entity not found for suffix: component-module"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 337
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "ZEpY6IB7oL",
+			"correlationId": "PoNJzQEEi9",
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[info] [CLI] Calling Query entity/actions: {
+	"funcParams": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 337
+	},
+	"level": "info",
+	"message": "[CLI] Calling Query entity/actions"
+}
+[error] [API]: Error Entity not found for suffix: component-module: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"position": 337
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+			},
+			"userContext": {
+				"id": "ZEpY6IB7oL",
+				"correlationId": "PoNJzQEEi9",
+				"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Entity not found for suffix: component-module\n    at getEntityActions (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:6597:15)\n    at async callQueryCli (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:8540:20)\n    at async callHandler (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16691:27)",
+	"level": "error",
+	"message": "[API]: Error Entity not found for suffix: component-module"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 338
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "ZEpY6IB7oL",
+			"correlationId": "sq5-iZvtEc",
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[info] [CLI] Calling Query entity/actions: {
+	"funcParams": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 338
+	},
+	"level": "info",
+	"message": "[CLI] Calling Query entity/actions"
+}
+[error] [API]: Error Entity not found for suffix: component-module: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"position": 338
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+			},
+			"userContext": {
+				"id": "ZEpY6IB7oL",
+				"correlationId": "sq5-iZvtEc",
+				"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Entity not found for suffix: component-module\n    at getEntityActions (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:6597:15)\n    at async callQueryCli (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:8540:20)\n    at async callHandler (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16691:27)",
+	"level": "error",
+	"message": "[API]: Error Entity not found for suffix: component-module"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 323
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "ZEpY6IB7oL",
+			"correlationId": "FN-kF_agKP",
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[error] [API]: Error Entity not found for suffix: component-module: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"position": 323
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+			},
+			"userContext": {
+				"id": "ZEpY6IB7oL",
+				"correlationId": "FN-kF_agKP",
+				"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Entity not found for suffix: component-module\n    at getEntityActions (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:6597:15)\n    at async callQueryCli (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:8540:20)\n    at async callHandler (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16691:27)",
+	"level": "error",
+	"message": "[API]: Error Entity not found for suffix: component-module"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 338
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "ZEpY6IB7oL",
+			"correlationId": "u_cwTh4KFn",
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[error] [API]: Error Entity not found for suffix: component-module: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"position": 338
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+			},
+			"userContext": {
+				"id": "ZEpY6IB7oL",
+				"correlationId": "u_cwTh4KFn",
+				"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Entity not found for suffix: component-module\n    at getEntityActions (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:6597:15)\n    at async callQueryCli (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:8540:20)\n    at async callHandler (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16691:27)",
+	"level": "error",
+	"message": "[API]: Error Entity not found for suffix: component-module"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 332
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "ZEpY6IB7oL",
+			"correlationId": "qDXZgDvkZe",
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[error] [API]: Error Entity not found for suffix: component-module: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"position": 332
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+			},
+			"userContext": {
+				"id": "ZEpY6IB7oL",
+				"correlationId": "qDXZgDvkZe",
+				"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Entity not found for suffix: component-module\n    at getEntityActions (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:6597:15)\n    at async callQueryCli (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:8540:20)\n    at async callHandler (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16691:27)",
+	"level": "error",
+	"message": "[API]: Error Entity not found for suffix: component-module"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 301
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "ZEpY6IB7oL",
+			"correlationId": "9Nj0DTMo-P",
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[info] [CLI] Calling Query entity/actions: {
+	"funcParams": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 301
+	},
+	"level": "info",
+	"message": "[CLI] Calling Query entity/actions"
+}
+[error] [API]: Error Entity not found for suffix: component-module: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"position": 301
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+			},
+			"userContext": {
+				"id": "ZEpY6IB7oL",
+				"correlationId": "9Nj0DTMo-P",
+				"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Entity not found for suffix: component-module\n    at getEntityActions (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:6597:15)\n    at async callQueryCli (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:8540:20)\n    at async callHandler (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16691:27)",
+	"level": "error",
+	"message": "[API]: Error Entity not found for suffix: component-module"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 337
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "ZEpY6IB7oL",
+			"correlationId": "qDftA76Ftc",
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[error] [API]: Error Entity not found for suffix: component-module: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"position": 337
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+			},
+			"userContext": {
+				"id": "ZEpY6IB7oL",
+				"correlationId": "qDftA76Ftc",
+				"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Entity not found for suffix: component-module\n    at getEntityActions (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:6597:15)\n    at async callQueryCli (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:8540:20)\n    at async callHandler (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16691:27)",
+	"level": "error",
+	"message": "[API]: Error Entity not found for suffix: component-module"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/app.component.ts",
+		"position": 190
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "ZEpY6IB7oL",
+			"correlationId": "698QpOTYZ8",
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/app.component.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[info] [CLI] Calling Query entity/actions: {
+	"funcParams": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/app.component.ts",
+		"position": 190
+	},
+	"level": "info",
+	"message": "[CLI] Calling Query entity/actions"
+}
+[info] [API] Response ok: entity/actions: {
+	"result": {
+		"context": {
+			"parentClass": "AppComponent"
+		},
+		"children": [
+			{
+				"label": "Properties",
+				"children": [
+					{
+						"actionId": "ADD_FORM",
+						"label": "Create Form Property",
+						"callPath": []
+					},
+					{
+						"actionId": "RXJS_PROPERTY_CREATE",
+						"label": "Create Data Property",
+						"callPath": []
+					},
+					{
+						"actionId": "RXJS_PROPERTY_SUBJECT_CREATE",
+						"label": "Create Subject Property",
+						"callPath": []
+					}
+				]
+			},
+			{
+				"label": "Inject",
+				"actionId": "INJECT",
+				"callPath": []
+			},
+			{
+				"label": "Methods",
+				"children": [
+					{
+						"actionId": "METHOD_CREATE",
+						"label": "Create New Method",
+						"callPath": []
+					}
+				]
+			},
+			{
+				"label": "Add Component to Route",
+				"actionId": "ADD_TO_ROUTE",
+				"callPath": []
+			}
+		]
+	},
+	"level": "info",
+	"message": "[API] Response ok: entity/actions"
+}
+[info] [CLI] Called Query entity/actions: {
+	"result": {
+		"context": {
+			"parentClass": "AppComponent"
+		},
+		"children": [
+			{
+				"label": "Properties",
+				"children": [
+					{
+						"actionId": "ADD_FORM",
+						"label": "Create Form Property",
+						"callPath": []
+					},
+					{
+						"actionId": "RXJS_PROPERTY_CREATE",
+						"label": "Create Data Property",
+						"callPath": []
+					},
+					{
+						"actionId": "RXJS_PROPERTY_SUBJECT_CREATE",
+						"label": "Create Subject Property",
+						"callPath": []
+					}
+				]
+			},
+			{
+				"label": "Inject",
+				"actionId": "INJECT",
+				"callPath": []
+			},
+			{
+				"label": "Methods",
+				"children": [
+					{
+						"actionId": "METHOD_CREATE",
+						"label": "Create New Method",
+						"callPath": []
+					}
+				]
+			},
+			{
+				"label": "Add Component to Route",
+				"actionId": "ADD_TO_ROUTE",
+				"callPath": []
+			}
+		]
+	},
+	"level": "info",
+	"message": "[CLI] Called Query entity/actions"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 337
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "ZEpY6IB7oL",
+			"correlationId": "tlinvj0Prw",
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[error] [API]: Error Entity not found for suffix: component-module: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"position": 337
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+			},
+			"userContext": {
+				"id": "ZEpY6IB7oL",
+				"correlationId": "tlinvj0Prw",
+				"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Entity not found for suffix: component-module\n    at getEntityActions (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:6597:15)\n    at async callQueryCli (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:8540:20)\n    at async callHandler (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16691:27)",
+	"level": "error",
+	"message": "[API]: Error Entity not found for suffix: component-module"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 307
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "ZEpY6IB7oL",
+			"correlationId": "EK8dXR7XWM",
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[error] [API]: Error Entity not found for suffix: component-module: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"position": 307
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+			},
+			"userContext": {
+				"id": "ZEpY6IB7oL",
+				"correlationId": "EK8dXR7XWM",
+				"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Entity not found for suffix: component-module\n    at getEntityActions (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:6597:15)\n    at async callQueryCli (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:8540:20)\n    at async callHandler (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16691:27)",
+	"level": "error",
+	"message": "[API]: Error Entity not found for suffix: component-module"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 300
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "ZEpY6IB7oL",
+			"correlationId": "ZCl7Ttmlgf",
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[info] [CLI] Calling Query entity/actions: {
+	"funcParams": {
+		"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+		"position": 300
+	},
+	"level": "info",
+	"message": "[CLI] Calling Query entity/actions"
+}
+[error] [API]: Error Entity not found for suffix: component-module: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+			"position": 300
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry"
+			},
+			"userContext": {
+				"id": "ZEpY6IB7oL",
+				"correlationId": "ZCl7Ttmlgf",
+				"clickedPath": "C:/Users/Natalia/OneDrive/Pulpit/lowgular-course-entry/src/app/ui/employee-list/employee-list.component-module.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Entity not found for suffix: component-module\n    at getEntityActions (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:6597:15)\n    at async callQueryCli (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:8540:20)\n    at async callHandler (C:\\Users\\Natalia\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16691:27)",
+	"level": "error",
+	"message": "[API]: Error Entity not found for suffix: component-module"
+}
